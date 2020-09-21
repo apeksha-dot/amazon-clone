@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The amazone-clone is develpoed in React, Node.js, Express.js and Firebase for database using Stripe for payments 
+
+
+
+
+(https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
