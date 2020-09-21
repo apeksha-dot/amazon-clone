@@ -3,7 +3,7 @@ The amazone-clone is develpoed in React, Node.js, Express.js and Firebase for da
 
 
 
-(https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
